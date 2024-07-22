@@ -1,0 +1,122 @@
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+  }
+  body {
+    margin: 0;
+    text-align: center;
+    color: 248,248,255;
+  }
+  
+  h1{
+    text-align: center;
+    padding-top: 20%;
+    font-family: "gyst-variable", sans-serif;
+    font-variation-settings: "wght" 100;
+  }
+
+  h2{
+    text-align: center;
+    /* padding-top: 20%; */
+    font-family: "ohno-blazeface", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 120pt;
+   
+  }
+
+  .again{
+    padding-top: 10%;
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style:  italic;
+    /* display: block; */
+    /* position: absolute;
+    z-index: 1;
+   left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 1000px; */
+    
+  
+  }
+  .again1{
+    padding-top: 10%;
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style:  italic;
+    display: block;
+    position: absolute;
+    left: 0; 
+    width: 1000px; 
+  /* right: 0;    */
+  /* margin-left: auto; 
+  margin-right: auto;  */
+  
+  }
+  .sketch{
+   align-content:flex-end;
+   
+  }
+  .sketch1{
+    align-content:flex-end;
+    padding-top: 5%;
+    
+   }
+  .go{
+    /* padding-bottom: 5% ; */
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style: italic;
+    position: absolute;
+    z-index: 1;
+   /* text-align: center; */
+   left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 1000px;
+  }
+  .go1{
+    padding-top: 33% ;
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style: italic;
+    position: absolute;
+    z-index: 1;
+   left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 1000px;
+  }
+
+  .go2{
+    /* padding-bottom: 5% ; */
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style: italic;
+    
+  }
+
+  a{
+    color: black; 
+    text-decoration: none; 
+    font-family: "ivypresto-display", serif;
+    font-weight: 700;
+    font-size: 17pt;
+    font-style: italic;
+   
+  }
+a:hover{
+    color:white; 
+    
+}
+ 
+
